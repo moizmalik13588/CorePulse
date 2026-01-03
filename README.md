@@ -27,7 +27,7 @@ This project demonstrates full-stack ML deployment with a focus on **accuracy, u
 
 ---
 
-## �� Frontend (UI/UX)
+## 🔹 Frontend (UI/UX)
 
 * Built as a **single-page application** with **HTML, Tailwind CSS, and Vanilla JavaScript**
 * Dark **neo-glass / cyber-inspired design** for a professional medical-tech aesthetic
